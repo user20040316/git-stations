@@ -83,3 +83,47 @@ footer {
   height: 100%;
   border-radius: 50%;
 }
+
+#access > h2 {
+  text-align: center;
+  padding-top: 150px;
+  margin-bottom: 50px;
+}
+
+#access {
+  width: 80vw;
+  height: 90vh;
+  margin: 0 auto;
+}
+
+#access > p {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+#access > table {
+  width: 60%;
+  margin: 0 auto;
+}
+
+#access-detail {
+  display: flex;
+}
+
+#access-detail > table {
+  width: 50%;
+  height: 100px;
+  margin: auto;
+}
+
+#access-detail > p {
+  height: 50vh;
+  width: 50%;
+  text-align: center;
+}
+
+#access-detail > p > img {
+  height: 100%;
+}
+  
